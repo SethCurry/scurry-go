@@ -10,3 +10,4 @@ functions so they can be updated everywhere.
 | Name                 | Description                                               |
 | -------------------- | --------------------------------------------------------- |
 | [fp](./fp/README.md) | A collection of generic, functional programming utilities |
+| [tu](./tu/README.md) | A collection of helpers for writing tests.                |
